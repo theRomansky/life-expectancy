@@ -2,3 +2,5 @@ notebooks/catboost_info/
 modules/catboost_info/
 models/
 data/
+.idea/
+.DS_Store
